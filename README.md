@@ -1,25 +1,15 @@
-# README
+# IED(Introduction To Engineering Design) Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This application is meant for police officers to communicate and handle emergencies in real time.
 
-Things you may want to cover:
+Features:
 
-* Ruby version
+* Real-Time Communication
 
-* System dependencies
+* Database Validations for Police Officers
 
-* Configuration
+* Remember Password using Web Cookies
 
-* Database creation
+* History is saved
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# ac
+# PolicePortal
